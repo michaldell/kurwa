@@ -1,1 +1,4 @@
-# kurwa ja pierdole zaczelo chulac 
+# pierwsze repo ktore zaczyna dzialac ja jebie 
+
+# flynerd
+
